@@ -1,0 +1,9 @@
+
+.main{
+    display: flex;   /* yatak olarak hizalamak için  */
+    justify-content: center;
+    min-height: 600px;
+    align-items: center; /* sayfa da ortalanması için */
+
+
+}
